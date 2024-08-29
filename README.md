@@ -15,7 +15,6 @@
   <div style="flex: 1; display: inline-block;">
     <!-- GitHub profile card -->
     <a href="https://github.com/ricardocamargo07">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ricardocamargo07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamargo07&layout=compact&langs_count=16&theme=tokyonight"/>
     </a>
   </div>
