@@ -1,37 +1,66 @@
-<h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/ricardocamargo07">Ricardo</a> !</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardocamargo07&color=yellow" alt="Profile views" /> </p>
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ricardocs-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/ric_hacks" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-@ric_hacks-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" alt="Hi" />
 </p>
-  
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; display: inline-block;">
-    <!-- GitHub profile card -->
-    <a href="https://github.com/ricardocamargo07">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamargo07&layout=compact&langs_count=16&theme=tokyonight"/>
-    </a>
-  </div>
-</div>
+
+<h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #111;">
+  Hello, I'm <a href="https://github.com/ricardocamargo07" style="color: #0070C9; text-decoration: none;">Ricardo C. S</a>
+</h1>
+
+<p align="center" style="font-size: 1.1rem; color: #666;">
+  Software Engineer skilled in UI/UX Design and backend and frontend development
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ricardocamargo07&color=0070C9" alt="Profile views" />
+</p>
 
 ---
 
-### 💻 Some Tools I Use
-<div style="display: inline-block">
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" heigth="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-</div>
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-de-c-stuckert-47453917b/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-ricardocs-0070C9?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ric_hacks" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-@ric_hacks-E4405F?style=flat&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:ricardocamargo07@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-✉️-333?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🛠 Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"       alt="Git"        width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"      width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"     width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"       alt="PHP"        width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"     alt="HTML5"      width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"       alt="CSS3"       width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" alt="Lua" width="50" style="margin:5px;" />
+</p>
+
+---
+
+### 📈 Profile Highlights
+
+* **Open Source Projects** 
+* **UI/UX**: Clean, responsive, user-centered design
+* **Backend**: Building RESTful APIs with Node.js & Express
+* **Performance**: Optimization, best practices, A/B testing
+* **Communication**: Friendly, direct, and assertive communicator
+
+---
+
+<p align="center" style="font-size:1rem; color:#888; margin-top:40px;">
+  “Simplicity is the ultimate sophistication.”  
+  <br/>– Leonardo da Vinci
+</p>
