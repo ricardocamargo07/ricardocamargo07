@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.1rem; color: #666;">
-  Software Engineer skilled in UI/UX Design and backend and frontend development
+  Computer engineer/Software Engineer (Backend/Frontend development) skilled in UI/UX Design 
 </p>
 
 <p align="center">
