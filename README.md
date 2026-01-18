@@ -16,22 +16,6 @@
 
 ---
 
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ricardo-de-c-stuckert-47453917b/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-ricardocs-0070C9?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ric_hacks" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-@ric_hacks-E4405F?style=flat&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:ricardocamargo07@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-✉️-333?style=flat&logo=gmail" alt="Email" />
-  </a>
-</p>
-
----
-
 ### 🛠 Tools & Technologies
 
 <p align="center">
